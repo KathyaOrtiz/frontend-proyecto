@@ -1,0 +1,33 @@
+
+to{
+  transform: rotate(360deg);
+}
+body{
+  color: rgba(255, 255, 255, 0.91);
+}
+
+section{
+  background-image: url('https://essenceofqatar.com/wp-content/uploads/2020/09/lusail-stadium-doha-qatar_092116_100518-e1569177231541.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+  color:rgb(255, 255, 255);
+  
+
+}
+section h1{
+  padding-top: 180px;
+  color:rgba(255, 255, 255, 0.653);
+  font-size: 200px;
+}
+
+.navBg{
+  background-color:#1B262C
+}
+table{
+
+  overflow: auto;
+ 
+}
+
